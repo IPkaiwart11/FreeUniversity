@@ -1,0 +1,21 @@
+.sidebar_container{
+               width: 200px;
+        
+              ul{
+                      list-style-type: none;
+                      padding: 0px;
+                      border: 1px solid orange;
+       
+                     li{
+                       background-color: rgb(206, 144, 30);
+                      border: 1px solid orange;
+                      color: whitesmoke;
+                      padding: 10px 20px;
+                     } 
+                     li:hover{
+                      background-color: orange;
+                      color: black;
+                     }
+              } 
+       }
+       

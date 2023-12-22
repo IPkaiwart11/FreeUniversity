@@ -1,0 +1,15 @@
+.collegelist{
+               width: 100%;
+               margin-right: 3% ;
+          tr{
+               /* width: 100%; */
+             th{
+               /* width: 100%; */
+               padding: 2% 3%;
+             } ;
+             td{
+
+               padding: 2% 3%;
+             } 
+          }     
+}

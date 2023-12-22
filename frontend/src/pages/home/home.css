@@ -1,0 +1,11 @@
+.sidebar{
+               /* position: fixed;       */
+          }
+          .main{
+               /* position: relative;           */
+          }
+          .body{
+                display: flex;
+                flex-direction: row;
+                margin-top: 1%;         
+          }
